@@ -1,6 +1,6 @@
 # Incident
 
-Eu estou usando como servidor o Tomcat 9.0
+Eu estou usando como servidor o Tomcat 9.0 e para executar o projeto usei o eclipse
 
 Após executar o programa entre nesse link "http://localhost:8080/h2-console" 
 -para ver se o banco foi criado com sucesso.
